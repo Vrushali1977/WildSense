@@ -1,0 +1,14 @@
+# Exported from Render on 2026-10-11T15:35:17Z
+version: "1"
+projects:
+- name: My project
+  environments:
+  - name: Production
+    services:
+    - type: web
+      name: WildSense-1
+      runtime: static
+      repo: https://github.com/Vrushali1977/WildSense
+      buildCommand: npm install; npm run build
+      staticPublishPath: dist
+      autoDeployTrigger: commit
