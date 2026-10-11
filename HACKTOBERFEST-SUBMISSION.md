@@ -15,16 +15,18 @@ The quests do not depend on AI or an internet connection. They are written to be
 These are captures of the running application. The filenames are retained from the original screenshots.
 
 ### Home and daily nature prompt
+![WildSense photo identification screen](./screenshots/Homepage.png)
 
-![WildSense home screen with the daily nature prompt](./screenshots/Quests.png)
+
 
 ### Short nature quests
+![WildSense home screen with the daily nature prompt](./screenshots/Quests.png)
 
 ![WildSense quest list with guided observation steps](./screenshots/Identify.png)
 
 ### Choose a photo for on-device identification
+![WildSense quest list with guided observation steps](./screenshots/Identify.png)
 
-![WildSense photo identification screen](./screenshots/Homepage.png)
 
 ### Image-classifier results
 
