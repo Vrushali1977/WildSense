@@ -17,9 +17,12 @@ WildSense is a mobile-first nature companion for curious walks: a private, in-br
 
 ## Screenshots
 
-Add a screenshot of the running app to the `screenshots` folder as `wildsense.png`:
+Screenshots of the running app:
 
-![WildSense running on a laptop](./screenshots/wildsense.png)
+![WildSense homepage](./screenshots/Homepage.png)
+![WildSense identification screen](./screenshots/Identify.png)
+![WildSense quests screen](./screenshots/Quests.png)
+![WildSense additional screen](./screenshots/answer.png)
 
 ## Prerequisites
 
