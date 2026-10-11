@@ -59,6 +59,14 @@ Preview a production build:
 npm run preview
 ```
 
+Serve the production build on the port provided by a hosting platform:
+
+```sh
+npm start
+```
+
+For a Render Web Service, use `npm install && npm run build` as the build command and `npm start` as the start command. The start script serves the generated `dist` files on `0.0.0.0` using Render's `PORT` environment variable. Run the build command before starting the server.
+
 The development server uses Vite's printed local URL (normally `http://localhost:5173`). Use the exact URL printed by your environment.
 
 ## Architecture
